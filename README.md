@@ -3,6 +3,7 @@
 **AI Full-Stack Engineer | Computer Science Graduate specializing in NLP & Computer Vision**
 
 Currently building cutting-edge AI solutions at **[Nymphar.ai](https://nymphar.ai)** 
+
 • Expert in Agentic AI, Modular RAG pipelines, and end-to-end AWS / Azure deployments
 
 ---
