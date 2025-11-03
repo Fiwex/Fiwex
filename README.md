@@ -10,7 +10,7 @@ Currently building cutting-edge AI solutions at **[Nymphar.ai](https://nymphar.a
 
 ## 🚀 About Me
 
-Computer Science Engineering graduate (2024) with **AI specialization in Natural Language Processing & Computer Vision**. I build production-ready AI systems from scratch, specializing in:
+Computer Science Engineering graduate with **AI specialization in Natural Language Processing & Computer Vision**. I build production-ready AI systems from scratch, specializing in:
 
 - **Agentic AI architectures** for complex reasoning and task orchestration
 - **Modular RAG pipelines** with self-correcting mechanisms, evaluation frameworks, intelligent routing, retrieval fusion, and advanced generation
